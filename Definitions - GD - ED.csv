@@ -1,0 +1,50 @@
+Variable,Label
+asdf_id,ASDF ID
+gqid,GD ID
+id,ID
+shapeGroup,Shape group
+shapeID,Municipality Geoquery Polygon ID
+shapeName,Shape name
+shapeType,Shape type
+COORD_X,Coordinate x
+COORD_Y,Coordinate y
+year,Commercial year
+adm3,city
+adm2,province
+adm1,region
+firms,Number of firms
+sales,Annual sales in UF
+d-labour,Number of dependent workers informed
+d-wage,Informed wage of dependent workers in UF
+d-labourmonth,Number of dependent workers weighted per worked month
+d-labourfem,Number of female dependent worker informed
+d-wagefem,Informed wage of female dependent workers in UF
+d-labourmonthfem,Number of female dependent workers weighted per worked month
+d-labourmale,Number of male dependent worker informed
+d-wagemale,Informed wage of male dependent workers in UF
+d-labourmonthmale,Number of male dependent workers weighted per worked month
+nd-labour,Number of non dependent workers informed
+nd-wage,Informed wage of non dependent workers in UF
+nd-labourmonth,Number of non dependent workers weighted per worked month
+nd-labourfem,Number of female non dependent worker informed
+nd-wagefem,Informed wage of female non dependent workers in UF
+nd-labourmonthfem,Number of female non dependent workers weighted per worked month
+nd-labourmale,Number of male non dependent worker informed
+nd-wagemale,Informed wage of male non dependent workers in UF
+nd-labourmonthmale,Number of male non dependent workers weighted per worked month
+totallabour,Sum of informed dependent and non dependent workers
+totalwage,Sum of informed dependent and non dependent wages
+totallabourfem,Sum of informed dependent and non dependent female workers
+totalwagefem,Sum of informed dependent and non dependent female worker wages
+totallabourmale,Sum of informed dependent and non dependent male workers
+totalwagemale,Sum of informed dependent and non dependent male worker wages
+lnsales,Natural logarithm of sales
+logsales,Common logarithm of sales
+lntotalwage,Natural logarithm of wage
+lntotalwagefem,Natural logarithm of famale workers wage
+lngtotalwagemale,Natural logarithm of male workers wage
+logtotalwage,Common logarithm of wage
+logtotalwagefem,Common logarithm of female workers wage
+logtotalwagemale,Common logarithm of male workers wage
+rank,Sales ranking
+adm1_adm3,Region - city
