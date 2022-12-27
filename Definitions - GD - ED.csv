@@ -1,7 +1,13 @@
 Variable,Label
+asdf_id,ASDF ID
+gqid,GQID
+id,ID
+shapeGroup,Shapegroup
+shapeID,ShapeId
+shapeName,Shapename
+shapeType,Shapetype
 year,Commercial year
 adm3,city
-asdf_id,ASDF ID
 adm2,province
 adm1,region
 adm1_adm3,Region - city
@@ -31,12 +37,17 @@ lntotallabour,Natural logarithm of total labour
 lntotallabourfem,Natural logarithm of female total labour
 lntotallabourmale,Natural logarithm of male total labour
 lntotalwage,Natural logarithm of total wage
-lntotalwagefem,Natural logarith of female total wage
-lntotalwagemale,Natural logarith of male total wage
+lntotalwagefem,Natural logarithm of female total wage
+lntotalwagemale,Natural logarithm of male total wage
 logsales,Common logarithm of sales
 logtotallabour,Common logarithm of total labour
 logtotallabourfem,Common logarithm of female total labour
 logtotallabourmale,Common logarithm of male total labour
 logtotalwage,Common logarithm of total wage
-logtotalwagefem,Common logarith of female total wage
-logtotalwagemale,Common logarith of male total wage
+logtotalwagefem,Common logarithm of female total wage
+logtotalwagemale,Common logarithm of male total wage
+COORD_X,Coordinate x
+COORD_Y,Coordinate y
+viirs_ntl_annual_v20_avg_masked.2020.sum,Sum of annual Visible and Infrared Imaging Suite (VIIRS)
+lnviirs_ntl,Natural logarithm of VIIRS
+logviirs_ntl,Common logarithm of VIIRS
