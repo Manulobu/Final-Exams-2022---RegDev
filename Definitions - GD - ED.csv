@@ -48,6 +48,10 @@ logtotalwagefem,Common logarithm of female total wage
 logtotalwagemale,Common logarithm of male total wage
 COORD_X,Coordinate x
 COORD_Y,Coordinate y
-viirs_ntl_annual_v20_avg_masked.2020.sum,Sum of annual Visible and Infrared Imaging Suite (VIIRS)
+viirs_ntl_annual_v20_avg_masked.2020.sum,Sum of annual Visible and Infrared Imaging Suite (VIIRS) in 2020
 lnviirs_ntl,Natural logarithm of VIIRS
 logviirs_ntl,Common logarithm of VIIRS
+worldpop_pop_count_1km_mosaic.2020.sum,Sum of population at city level 2020
+lnpop2020,Natural logarithm of population 
+logpop2020,Common logarithm of population
+LTL2020pc,NTL per capita (VIIRS/Worldpop)
